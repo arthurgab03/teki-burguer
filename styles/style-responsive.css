@@ -42,6 +42,7 @@
         width: 100vw;
         margin-left: 0;
         height: 70vh;
+        background-color: red;
     
     }
 
@@ -50,16 +51,19 @@
         flex-direction: column;
         justify-content: space-evenly;
         align-items: flex-start;
+        background-image: none;
 
     }
 
     main .container img {
         margin-left: -4.5rem;
     }
+    main .container p {
+        font-size: 20px;
+    }
 
     .container p {
         width: 100%;
-        color: black;
         margin-left: -4.5rem;
     }
 
@@ -105,8 +109,16 @@
     }
 
     .history .left-side {
-        margin-left: -0.5rem;
+        margin-left: 1rem;
         margin-bottom: 5rem;
+    }
+
+
+    footer {
+        height: 40vh;
+    }
+    footer nav dl dt {
+        font-size: 16px;
     }
 
     footer .adress {
