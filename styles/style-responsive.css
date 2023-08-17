@@ -109,8 +109,14 @@
     }
 
     .history .left-side {
-        margin-left: 0.5rem;
+    
         margin-bottom: 5rem;
+        
+
+    }
+
+    .carousel {
+        width: 80%;
     }
 
 
