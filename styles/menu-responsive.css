@@ -1,0 +1,65 @@
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    body {
+        height: 500vh;
+        background-color: black;
+        background-image: none;
+    }
+
+
+    .navbar-brand {
+        display: none;
+    }
+
+    .navbar-toggler-icon {
+        padding: 1.5rem;
+        border-radius: 10px;
+        background-color: grey;
+
+
+    }
+
+    header nav {
+        width: 100%;
+        margin: 0;
+    }
+
+    header nav ul {
+        margin-left: 2rem;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    header ul li {
+        margin: 0;
+        gap: 0;
+    }
+
+    .card-container {
+        height: 250vh;
+    }
+
+
+    .cards {
+        flex-direction: column;
+        margin: 5rem 0;
+        gap: 100px;
+
+    }
+
+
+
+    footer {
+        height: 40vh;
+    }
+    footer nav dl dt {
+        font-size: 16px;
+    }
+
+    footer .adress {
+        padding: 0;
+    }
+
+    footer .adress span {
+        font-size: 15px;
+    }
+}
