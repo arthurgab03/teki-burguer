@@ -1,0 +1,4 @@
+font-family: 'Inria Sans', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Iceland', cursive;
+font-family: 'Poppins', sans-serif;
