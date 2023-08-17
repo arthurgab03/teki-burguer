@@ -41,7 +41,8 @@
     main {
         width: 100vw;
         margin-left: 0;
-        height: 150vh;
+        height: 70vh;
+    
     }
 
     main .container {
@@ -68,6 +69,8 @@
 
     .who {
         flex-direction: column;
+        height: 70vh;
+        background-image: none;
     }
 
     .who .container {
