@@ -41,7 +41,6 @@
 
     .cards {
         flex-direction: column;
-        margin: 5rem 0;
         gap: 100px;
 
     }
