@@ -116,6 +116,10 @@ main {
     height: 175px;
 }
 
+ .text-box a {
+    text-decoration: none;
+}
+
 .text-box {
     margin-left: 3rem;
 }
