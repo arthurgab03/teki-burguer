@@ -2,7 +2,7 @@
 
 ## Links importantes:
 
-- [CLIQUE AQUI PARA VISUALIZAR O PROJETO](https://arthurgab03.github.io/teki-burger/index.html) 
+- [CLIQUE AQUI PARA VISUALIZAR O PROJETO](https://arthurgab03.github.io/teki-burguer/index.html) 
 
 - [Github de Adryan Albuquerque](https://github.com/adryanAlbuquerque)
 
